@@ -3,4 +3,4 @@
 - I'm 17, brazilian, and begginer in development
 - I like to dev in NodeJS and Web Languages (HTML, CSS, JS, and Vue), but I'm so much interested in Python, Java, C/C++ and C#
 - My mail: privado.erikhenrique@gmail.com
-- Discord: henrique#0001
+- Discord: henriique#0958
